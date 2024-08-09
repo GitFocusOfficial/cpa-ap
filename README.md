@@ -183,5 +183,207 @@
 | 9-14          | Problem 10
 | 9-15          | Illustrative Example 1
 | 9-16          | Illustrative Example 2
+|               |
+|               |
+| 10            | Notes and Bonds Payable
+| 10-1          | Notes and Bonds Payable Part I
+| 10-2          | Problem 1
+| 10-3          | Notes and Bonds Payable Part II
+| 10-4          | Problem 2
+| 10-5          | Notes and Bonds Payable Part III
+| 10-6          | Problem 3
+| 10-7          | Problem 4
+| 10-8          | Problem 5
+| 10-9          | Problem 6
+| 10-10         | Notes and Bonds Payable Part IV
+| 10-11         | Problem 7
+| 10-12         | Notes and Bonds Payable Part V
+| 10-13         | Problem 8
+| 10-14         | Notes and Bonds Payable Part VI
+| 10-15         | Problems 9 and 10
+| 10-16         | Problem 11
+| 10-17         | Notes and Bonds Payable Part VII
+| 10-18         | Problem 12
+|               |
+|               |
+| 11            | Property, Plant, and Equipment
+| 11-01         | Property, Plant, and Equipment Part I
+| 11-02         | Problem 1
+| 11-03         | Property, Plant, and Equipment Part II
+| 11-04         | Problem 2
+| 11-05         | Problem 3
+| 11-06         | Property, Plant, and Equipment Part III
+| 11-07         | Problems 4 to 10
+| 11-08         | Property, Plant, and Equipment Part IV
+| 11-09         | Problems 11 to 12
+| 11-10         | Problems 13 to 14
+| 11-11         | Property, Plant, and Equipment Part V
+| 11-12         | Problems 15
+| 11-13         | Problem 16 Case 1 to 2
+| 11-14         | Problem 16 Case 3
+| 11-15         | Problem 17 Case 1
+| 11-16         | Problem 17 Case 2
+| 11-17         | Problem 18
+| 11-18         | Property, Plant, and Equipment Part VI
+| 11-19         | Property, Plant, and Equipment Part VII
+| 11-20         | Problem 19
+| 11-21         | Problem 20
+| 11-22         | Problem 21
+| 11-23         | Problem 22
+| 11-24         | Problem 23
+| 11-25         | Wasting Asset
+| 11-26         | Problem 24 to 26
+| 11-27         | Problem 27
+| 11-28         | Special Audit Consideration
+| 11-29         | Problem 28
+|               |
+|               |
+| 12            | Intangible Assets
+| 12-1          | Intangible Assets Part I
+| 12-2          | Problem 1
+| 12-3          | Problem 2
+| 12-4          | Intangible Assets Part II
+| 12-5          | Problem 3
+| 12-6          | Problem 4
+| 12-7          | Intangible Assets Part III
+| 12-8          | Problem 5
+| 12-9          | Intangible Assets Part IV
+| 12-10         | Problem 6
+| 12-11         | Intangible Assets Part V
+| 12-12         | Problem 7
+| 12-13         | Problem 8
+| 12-14         | Problem 9
+| 12-15         | Problem 10
+| 12-16         | Problem 11
+| 12-17         | Problem 12
+| 12-18         | Problem 13
+| 12-19         | Intangible Assets Part VI
+| 12-20         | Problem 14
+|               |
+|               |
+| 13            | Investment Property
+| 13-1          | Investment Property Part I
+| 13-2          | Problem 1
+| 13-3          | Problems 2 to 4
+| 13-4          | Investment Property Part II
+| 13-5          | Problem 5
+| 13-6          | Investment Property Part III
+| 13-7          | Problem 6
+| 13-8          | Problem 7
+| 13-9          | Problem 8
+|               |
+|               |
+| 14            | Revaluation and Impairment
+| 14-1          | Revaluation, Impairment, and Non-Current Asset Held for Sale
+| 14-2          | Problem 1
+| 14-3          | PAS 36: Impairment of Assets
+| 14-4          | Problem 2
+| 14-5          | Problem 3
+| 14-6          | Problem 4
+| 14-7          | Cash Generating Units
+| 14-8          | Problem 5
+| 14-9          | Non-Current Asset Held for Sale
+| 14-10         | Problem 6
+| 14-11         | Problem 7
+| 14-12         | Problem 8
+| 14-13         | Problem 9
+|               |
+|               |
+| 15            | Current Liabilities
+| 15-1          | Current Liabilities
+| 15-2          | Problems 1 and 2
+| 15-3          | Trade Accounts Payable
+| 15-4          | Problem 3
+| 15-5          | Problem 4
+| 15-6          | Problem 5
+| 15-7          | Problem 6
+| 15-8          | Provision
+| 15-9          | Problems 7 and 8
+| 15-10         | Problem 9
+| 15-11         | Problem 10
+| 15-12         | Problem 11
+| 15-13         | Problem 12
+| 15-14         | Special Audit Consideration for Payables
+| 15-15         | Problem 13
+|               |
+|               |
+| 16            | Accounting for Income Tax
+| 16-1          | Accounting for Income Tax Part I
+| 16-2          | Problem 1
+| 16-3          | Problem 2
+| 16-4          | Problem 3
+| 16-5          | Accounting for Income Tax Part II
+| 16-6          | Problem 4
+| 16-7          | Problem 5
+| 16-8          | Accounting for Income Tax Part III
+| 16-9          | Problem 6
+| 16-10         | Problem 7
+|               |
+|               |
+| 17            | Employee Benefits
+| 17-1          | Employee Benefits
+| 17-2          | Problem 1
+| 17-3          | Post Employment Benefits
+| 17-4          | Problem 2
+| 17-5          | Statement of Financial Position
+| 17-6          | Problems 3 and 4
+| 17-7          | Benefit Expense
+| 17-8          | Problem 5
+| 17-9          | Problem 6
+| 17-10         | Procedural Approach
+| 17-11         | Problem 7
+| 17-12         | Problem 8
+| 17-13         | Problem 9
+| 17-14         | Problem 10
+|               |
+|               |
+| 18            | Statement of Cash Flows
+| 18-1          | Statement of Cash Flows Part I
+| 18-2          | Statement of Cash Flows Part II
+| 18-3          | Problem 1
+| 18-4          | Problem 2
+| 18-5          | Problem 3
+| 18-6          | Problem 4
+| 18-7          | Problem 5
+| 18-8          | Problem 6
+| 18-9          | Problem 7
+|               |
+|               |
+| 19            | Financial Statements
+| 19-1          | Statement of Financial Position and P/L and OCI
+| 19-2          | Problem 1
+| 19-3          | Problem 2
+| 19-4          | Statement of Profit or Loss and Other Comprehensive Income
+| 19-5          | Problem 3
+| 19-6          | Problem 4
+| 19-7          | Problem 5
+| 19-8          | Problem 6
+|               |
+|               |
+| 20            | Leases
+| 20-1          | Leases Part I
+| 20-2          | Problem 1
+| 20-3          | Leases Part II
+| 20-4          | Problem 2
+| 20-5          | Problem 3
+| 20-6          | Problem 4
+| 20-7          | Leases Part III
+| 20-8          | Problem 5
+| 20-9          | Leases Part IV
+| 20-10         | Problem 6
+| 20-11         | Problem 7
+| 20-12         | Problem 8
+| 20-13         | Leases Part V
+| 20-14         | Problem 9
+| 20-15         | Leases Part IV
+| 20-16         | Problem 10
+| 20-17         | Problem 11
+| 20-18         | Leases Part VII
+| 20-19         | Problem 12
+| 20-20         | Problem 13
+| 20-21         | Leases Part VIII
+| 20-22         | Problem 14
+| 20-23         | Leases Part IX
+| 20-24         | Problem 15
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
